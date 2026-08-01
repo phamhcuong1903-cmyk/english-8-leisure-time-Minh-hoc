@@ -1,0 +1,6 @@
+{
+  "name": "Web Luyện Từ Vựng Unit 1 - Leisure Time",
+  "description": "Ứng dụng luyện từ vựng Tiếng Anh 8 Global Success với 6 chế độ học thông minh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
