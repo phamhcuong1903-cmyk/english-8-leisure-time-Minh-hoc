@@ -1,0 +1,6 @@
+{
+  "name": "Unit 1: Adjectives of Preference & Prepositions",
+  "description": "Interactive text animation and grammar guide for English prepositions following adjectives of fondness and preference.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

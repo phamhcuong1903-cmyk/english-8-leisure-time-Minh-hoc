@@ -1,0 +1,6 @@
+{
+  "name": "Unit 1 - Roleplay Conversation Practice",
+  "description": "Bố cục màn hình luyện hội thoại đóng vai Unit 1 với transcript và chọn nhân vật Trang - Tom",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
