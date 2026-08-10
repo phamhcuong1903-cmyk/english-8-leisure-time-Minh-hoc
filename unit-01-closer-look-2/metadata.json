@@ -1,0 +1,6 @@
+{
+  "name": "Unit 1: Verb Classification & Practice",
+  "description": "Bảng phân loại động từ theo Gerund only và Both Gerund & To-infinitive - Tiếng Anh THCS Unit 1",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

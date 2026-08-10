@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question": "I love _____, so in my leisure time, I go to some villages near Ha Noi to relax and enjoy the outdoors.",
+      "options": { "A": "travelling", "B": "travelled", "C": "a travel" },
+      "correctAnswer": "A",
+      "explanation": "Sau động từ 'love', ta cần V-ing hoặc to-V, không dùng dạng quá khứ (travelled) hay danh từ không phù hợp (a travel). 'travelling' là V-ing đúng."
+    },
+    {
+      "question": "Tom enjoys _____ puzzles, especially Sudoku.",
+      "options": { "A": "doing", "B": "do", "C": "to do" },
+      "correctAnswer": "A",
+      "explanation": "Động từ 'enjoy' CHỈ đi với V-ing. 'doing' là đáp án đúng, không thể dùng 'to do'."
+    },
+    {
+      "question": "When do you like _____ TV?",
+      "options": { "A": "watched", "B": "watch", "C": "to watch" },
+      "correctAnswer": "C",
+      "explanation": "Động từ 'like' đi được với cả V-ing và to-V. 'to watch' đúng ngữ pháp; 'watched' là quá khứ nên sai; 'watch' thiếu 'to' nên cũng sai."
+    },
+    {
+      "question": "Do you fancy _____ to the cinema this weekend?",
+      "options": { "A": "go", "B": "going", "C": "to go" },
+      "correctAnswer": "B",
+      "explanation": "Động từ 'fancy' CHỈ đi với V-ing. 'going' là đáp án đúng."
+    },
+    {
+      "question": "I detest _____. I think it's cruel to harm animals.",
+      "options": { "A": "hunting", "B": "to hunt", "C": "hunt" },
+      "correctAnswer": "A",
+      "explanation": "Động từ 'detest' CHỈ đi với V-ing. 'hunting' là đáp án đúng."
+    }
+  ]
+}

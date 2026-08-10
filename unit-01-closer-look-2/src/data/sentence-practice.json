@@ -1,0 +1,55 @@
+{
+  "formula": "Chủ ngữ + Động từ (chia đúng thì) + V-ing / to V",
+  "questions": [
+    {
+      "prompt": "Mark _____ the net.",
+      "hint": "(like / surf)",
+      "acceptedAnswers": [
+        "likes surfing",
+        "likes to surf",
+        "likes surfing the net",
+        "likes to surf the net"
+      ],
+      "explanation": "Mark likes surfing / to surf the net. Giải thích: Thì hiện tại đơn dùng để diễn tả sở thích. Ở đây 'Mark' là ngôi thứ 3 số ít nên ta chia 'like' thành 'likes', và động từ 'like' đi được với CẢ V-ing (surfing) lẫn to-V (to surf)."
+    },
+    {
+      "prompt": "The girls _____ in their free time.",
+      "hint": "(enjoy / knit)",
+      "acceptedAnswers": [
+        "enjoy knitting",
+        "enjoy knitting in their free time"
+      ],
+      "explanation": "The girls enjoy knitting in their free time. Giải thích: 'The girls' là danh từ số nhiều nên động từ 'enjoy' giữ nguyên, và động từ 'enjoy' CHỈ đi với V-ing (knitting)."
+    },
+    {
+      "prompt": "My cousin _____.",
+      "hint": "(dislike / cook)",
+      "acceptedAnswers": [
+        "dislikes cooking"
+      ],
+      "explanation": "My cousin dislikes cooking. Giải thích: 'My cousin' là ngôi thứ 3 số ít nên động từ 'dislike' chia thành 'dislikes', và động từ 'dislike' CHỈ đi với V-ing (cooking)."
+    },
+    {
+      "prompt": "My father _____ shopping.",
+      "hint": "(hate / go)",
+      "acceptedAnswers": [
+        "hates going",
+        "hates to go",
+        "hates going shopping",
+        "hates to go shopping"
+      ],
+      "explanation": "My father hates going / to go shopping. Giải thích: 'My father' là ngôi thứ 3 số ít nên động từ 'hate' chia thành 'hates', và động từ 'hate' đi được với CẢ V-ing (going) lẫn to-V (to go)."
+    },
+    {
+      "prompt": "Tom and his sister _____ DIY.",
+      "hint": "(prefer / do)",
+      "acceptedAnswers": [
+        "prefer doing",
+        "prefer to do",
+        "prefer doing DIY",
+        "prefer to do DIY"
+      ],
+      "explanation": "Tom and his sister prefer doing / to do DIY. Giải thích: 'Tom and his sister' là chủ ngữ số nhiều nên động từ 'prefer' giữ nguyên, và 'prefer' đi được với CẢ V-ing (doing) lẫn to-V (to do)."
+    }
+  ]
+}

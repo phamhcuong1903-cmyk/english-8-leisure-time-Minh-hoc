@@ -1,0 +1,18 @@
+{
+  "instruction": "Kéo mỗi động từ vào đúng cột",
+  "columns": [
+    { "id": "gerund-only", "label": "Verbs followed by gerunds only" },
+    { "id": "both", "label": "Verbs followed by both gerunds and to-infinitives" }
+  ],
+  "items": [
+    { "word": "love", "correctColumn": "both" },
+    { "word": "dislike", "correctColumn": "gerund-only" },
+    { "word": "enjoy", "correctColumn": "gerund-only" },
+    { "word": "detest", "correctColumn": "gerund-only" },
+    { "word": "hate", "correctColumn": "both" },
+    { "word": "fancy", "correctColumn": "gerund-only" },
+    { "word": "prefer", "correctColumn": "both" },
+    { "word": "like", "correctColumn": "both" }
+  ],
+  "explanation": "Trong tiếng Anh, một số động từ chỉ cảm xúc/sở thích CHỈ đi với V-ing (dislike, enjoy, detest, fancy) — đây là quy tắc cố định cần ghi nhớ. Trong khi đó, các động từ love, hate, prefer, like có thể đi với CẢ V-ing lẫn to-V mà không làm thay đổi nhiều về nghĩa, ví dụ: 'I love swimming' và 'I love to swim' đều đúng."
+}
