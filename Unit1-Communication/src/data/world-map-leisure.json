@@ -1,0 +1,25 @@
+{
+  "locations": [
+    {
+      "name": "Sakura",
+      "country": "Japan",
+      "city": "Kyoto",
+      "coordinates": { "lat": 35.0116, "lng": 135.7681 },
+      "activity": "Origami is the art of paper folding. I love doing it on my own in my free time. With just some sheets of paper, I can create almost anything: flowers, birds, or fans. Doing origami helps me to relax."
+    },
+    {
+      "name": "Eric",
+      "country": "Switzerland",
+      "city": "St. Gallen",
+      "coordinates": { "lat": 47.4245, "lng": 9.3767 },
+      "activity": "My hometown has some famous ski resorts. I'm into snowboarding and usually go to a nearby ski resort with my parents at weekends. Snowboarding improves my overall health and balance."
+    },
+    {
+      "name": "Lan",
+      "country": "Viet Nam",
+      "city": "Quang Binh",
+      "coordinates": { "lat": 17.4809, "lng": 106.6236 },
+      "activity": "I'm keen on playing sport, especially badminton. My best friend lives next door, so we play badminton almost every afternoon. It's an easy sport, and it also improves my muscle strength and helps reduce stress."
+    }
+  ]
+}
