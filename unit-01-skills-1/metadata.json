@@ -1,0 +1,6 @@
+{
+  "name": "Trang's Leisure Activities - Luyện Đọc & Đối Thoại Tiếng Anh 7",
+  "description": "Ứng dụng học tiếng Anh cho học sinh cấp 2 với bài đọc Trang's leisure activities, nghe audio bài đọc và thực hành đối thoại theo chuẩn giao diện.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
