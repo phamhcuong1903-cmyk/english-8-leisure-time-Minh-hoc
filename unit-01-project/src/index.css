@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #FDFBF7;
+    color: #334155;
+    margin: 0;
+    padding: 0;
+  }
+
+  button, input, textarea, select {
+    font-family: 'Times New Roman', Times, serif;
+  }
+}
+
+/* Custom mindmap dotted background pattern */
+.mindmap-canvas {
+  background-color: #FDFBF7;
+  background-size: 28px 28px;
+  background-image: radial-gradient(circle, #CBD5E1 1.2px, transparent 1.2px);
+}
+
+.no-select {
+  user-select: none;
+  -webkit-user-select: none;
+}

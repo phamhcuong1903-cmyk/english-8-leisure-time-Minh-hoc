@@ -1,0 +1,6 @@
+{
+  "name": "Tiếng Anh 8 - Unit 1: Leisure Time - Project",
+  "description": "Sơ đồ tư duy tổng kết Unit 1: Leisure Time và Bảng tự đánh giá kỹ năng dành cho học sinh lớp 8",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
