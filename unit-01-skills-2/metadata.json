@@ -1,0 +1,6 @@
+{
+  "name": "Tiếng Anh 8 - Unit 1: Leisure Time - Skills 2",
+  "description": "Ứng dụng luyện nghe tiếng Anh Lớp 8 - Unit 1: Leisure Time - Skills 2 với 2 lượt nghe: nghe ý chính và đối chiếu transcript",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
