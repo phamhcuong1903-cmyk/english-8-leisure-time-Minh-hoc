@@ -1,0 +1,6 @@
+{
+  "name": "Tiếng Anh 8 - Unit 1: Leisure Time",
+  "description": "Trang menu tổng hợp các phần học Unit 1: Leisure Time cho học sinh lớp 8",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
